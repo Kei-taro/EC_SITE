@@ -1,0 +1,13 @@
+node_modules/
+public/
+build/
+.vs/
+/
+firebase.json
+firestore.indexes.json
+src/firebase/config.js
+functions/
+.firebase/
+.firebaserc
+package.json
+package-lock.json
